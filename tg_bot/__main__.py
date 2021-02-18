@@ -46,7 +46,7 @@ async def help_message_f(client, message):
             reply_to_message_id=msg.message_id
         )
         return
-    update_channel = UPDATES_CHANNEL
+    update_channel = @f_i_l_m_z
     if update_channel:
         try:
             user = await client.get_chat_member(update_channel, message.chat.id)
