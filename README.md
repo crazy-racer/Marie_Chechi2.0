@@ -19,7 +19,7 @@ Alternatively, [find me on telegram](https://t.me/SonOfLars)! (Keep all support 
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie_Chechi2.0)](https://heroku.com/deploy?template= https://github.com/unknown-01-hacker/Marie_Chechi2.0)
+[![Deploy](https://heroku.com/deploy?template=https://heroku.com/deploy?template= https://github.com/unknown-01-hacker/Marie_Chechi2.0)
 
 ## Starting the bot.
 
